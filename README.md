@@ -1,7 +1,8 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> Leertaak instructie: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Tumi Mundo
+<img src= "https://github.com/Hadil24A/Pleasurable-UI/assets/144008714/3ee701d5-0499-43da-aeb4-f6849e4da27a" width="500px"> 
+
 
 ## Inhoudsopgave
 
@@ -9,25 +10,29 @@
   * [Gebruik](#gebruik)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Samen met mijn team heb ik een interactieve website ontworpen en gemaakt. Ik heb de home page veranderd en animaties toegevoegd. Ook heb ik  een nieuwe pagina aangemaakt waar alle playlists zichtbaar zijn. 
+Op de lessonspagina zijn namelijk maar een paar playlists te zien. Het is nu overzichtelijker en de gebruiker kan makkelijk een playlist kiezen.
+
+[Live URL](https://pleasurable-ui-1.onrender.com/) 
 
 ## Gebruik
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+Voor deze website is gebruik gemaakt van van Node, Express en EJS. Ook heb ik CSS en client side Javascript voor (micro)interacties gebruikt. 
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
+Met keyframe-animaties, JavaScript en CSS-hovers hebben ik onze website verrijkt, waardoor het gebruik ervan leuker en aantrekkelijker is voor de bezoekers.
 
 ## Installatie
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
-
-## Bronnen
-
+* Fork deze repository;
+* Clone de repository op uw eigen apparaat;
+* Gebruik een editor naar keuze.
+* Installeer NodeJs
+* Run de command npm install
+* Run de command npm start
+* Klik op de localhost link en begin met coden!
+  
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
